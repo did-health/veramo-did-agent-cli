@@ -1,5 +1,5 @@
 # veramo-did-agent-cli
-cli did agent for did:ethr, did:ens, etc  (create dids, resolve dids)
+cli did agent for did:ethr, did:ens, di:key etc  (create dids, resolve dids)
 
 first install veramo
 ```
